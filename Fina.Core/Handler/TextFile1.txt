@@ -1,0 +1,17 @@
+﻿
+
+entrou uma requisição => vai sair uma resposta..
+
+vamos ter duas implementações distintas desse mesmo serviço..
+no back/api vamos salvar no banco..
+no front vamos chamar na api..
+
+
+Handler = Services... vai manipular as requisições, vai fazer o processo da requisiçao e devolver um Response
+
+entrada e saida..
+
+
+Não vamos implementar nada! 
+
+só vamos definir os contratos.. oq precisa ser feito! como será feito, cada um vai fazer de um jeito.. Utilzar interface!
